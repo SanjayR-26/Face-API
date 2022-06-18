@@ -1,7 +1,5 @@
 # Face-API
-An Cloud API having  the face recognition python module as a base.
-  I found this module very useful and powerful so because there is no dedicated cloud API for this module. I started this repository where all the initial
-  steps are completed. I hope this project would become usefull in any near future.
+A Cloud API has the face recognition python module as a base. I found this module very useful and powerful so because there is no dedicated cloud API for this module. I started this repository where all the initial steps are completed. I hope this project would become useful in the near future.
   
  # Techstack
  - Python
